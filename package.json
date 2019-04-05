@@ -1,19 +1,21 @@
 {
   "name": "leopard-landing",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "dependencies": {
+    "bulma": "^0.7.4",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-bulma-components": "^2.3.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.8"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4",
-    "semantic-ui-css": "^2.4.0",
-    "semantic-ui-react": "^0.82.5"
+    "eject": "react-scripts eject",
+    "now": "npm run build && now ./build"
   },
   "eslintConfig": {
     "extends": "react-app"
