@@ -14,9 +14,9 @@ const AdditionalServices = () => {
         <div class="columns is-centered" style={{ marginTop: '1rem' }}>
           <div class="column">
             <div class="card is-shadowless">
-              <div class="card-image">
-                <figure class="image is-16by9">
-                  <img src="../images/s2.jpg" alt="Service 1" />
+              <div class="card-image bm--card-img-zoom">
+                <figure class="image is-16by9 ">
+                  <img src="../images/s2.jpg" alt="Service 1" class=" " />
                 </figure>
               </div>
               <div class="card-content is-paddingless has-text-centered" style={{ marginTop: '1rem' }}>
@@ -29,9 +29,9 @@ const AdditionalServices = () => {
           </div>
           <div class="column">
             <div class="card is-shadowless">
-              <div class="card-image">
+              <div class="card-image bm--card-img-zoom">
                 <figure class="image is-16by9">
-                  <img src="../images/s2.jpg" alt="Service 1" />
+                  <img src="../images/s2.jpg" alt="Service 2" />
                 </figure>
               </div>
               <div class="card-content is-paddingless has-text-centered" style={{ marginTop: '1rem' }}>
