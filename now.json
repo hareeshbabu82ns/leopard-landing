@@ -1,6 +1,9 @@
 {
   "version": 2,
   "name": "leopard",
+  "env": {
+    "SENDGRID_API_KEY": "@sg-api-key"
+  },
   "builds": [
     {
       "src": "package.json",
