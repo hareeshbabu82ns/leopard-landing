@@ -16,7 +16,7 @@ const AdditionalServices = () => {
             <div class="card is-shadowless">
               <div class="card-image bm--card-img-zoom">
                 <figure class="image is-16by9 ">
-                  <img src="../images/s2.jpg" alt="Service 1" class=" " />
+                  <img src="../images/truck_trailer.jpg" alt="Service 1" class=" " />
                 </figure>
               </div>
               <div class="card-content is-paddingless has-text-centered" style={{ marginTop: '1rem' }}>
@@ -31,7 +31,7 @@ const AdditionalServices = () => {
             <div class="card is-shadowless">
               <div class="card-image bm--card-img-zoom">
                 <figure class="image is-16by9">
-                  <img src="../images/s2.jpg" alt="Service 2" />
+                  <img src="../images/warehouse_forklift.jpg" alt="Service 2" />
                 </figure>
               </div>
               <div class="card-content is-paddingless has-text-centered" style={{ marginTop: '1rem' }}>
