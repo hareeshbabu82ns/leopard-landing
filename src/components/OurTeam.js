@@ -18,8 +18,8 @@ const OurTeam = () => {
                 style={{ marginTop: '1rem' }}>
                 <h1 className="title is-5 is-spaced">Narinder Gill</h1>
                 <div class="content subtitle is-size-6">
-                  info about person1.
-        </div>
+                  15 years of experiance in trucking industry.
+                </div>
               </div>
             </div>
           </div>

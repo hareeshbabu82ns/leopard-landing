@@ -8,7 +8,12 @@ const footer = () => {
         <div class="column">
           <h1 class="title is-5 has-text-grey-lighter">About Us</h1>
           <h2 class="subtitle is-6 has-text-grey">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
+          Leopard Transportat Ltd. is a provider of multiple truckload transportation services, which involve the movement of full trailer or container loads of freight from origin to destination for a single customer.
+          Our services include dry van truckload, temperature-controlled truckload, and dedicated truckload services.
+          As a result of the expanse of our network we are able to transport, or arrange for the transportation of, general commodities for customers throughout Alberta.
+          
+          
+          Our objective is to operate truckload businesses that are industry leading in both margin and growth, while providing cost-effective solutions for our customers. 
           </h2>
         </div>
         <div class="column">
@@ -36,14 +41,9 @@ const footer = () => {
             Let us be social
           </h2>
           <div className="level" style={{ justifyContent: 'flex-start' }}>
-            <span className="icon"><i class="fab fa-facebook-f"></i></span>
-            <span className="icon"><i class="fab fa-twitter"></i></span>
-            <span class="icon is-left">
-              <i class="fab fa-instagram"></i>
-            </span>
-            <span class="icon is-left">
-              <i class="fas fa-globe"></i>
-            </span>
+            <a href="http://google.ca"><span className="icon"><i class="fab fa-facebook-f"></i></span></a>
+            <a href="http://google.ca"><span className="icon"><i class="fab fa-twitter"></i></span></a>
+            <a href="http://google.ca"><span class="icon is-left"><i class="fab fa-instagram"></i></span></a>
           </div>
         </div>
       </section>
